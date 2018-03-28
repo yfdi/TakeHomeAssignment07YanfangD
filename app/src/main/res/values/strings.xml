@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment07-YanfangD</string>
+    <string name="question_greenland">The world<b/>'s biggest island is Greenland</string>
+    <string name="question_geraldine_ferraro">In the 1984 vice presidential debates, Geraldine Ferraro was George H.W. Bush<b/>'s opponent</string>
+    <string name="question_millennium">Millennium is the time span of one thousand years</string>
+    <string name="question_circle">180 degrees are found in a circle</string>
+    <string name="question_goodbye">Sayonara is the Japanese word for Goodbye</string>
+    <string name="question_cello">A cello has 4 strings</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong</string>
+</resources>
